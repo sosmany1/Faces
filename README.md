@@ -1,2 +1,2 @@
 # Faces
-Steering StyleGAN Faces with CLIP classifiers
+Steering StyleGAN Faces with attribute classifiers
